@@ -1,16 +1,12 @@
-# DemoBBVA
+# Ejemplo de Pitch
+## Nombre del Projecto
 
-## Subtitulo
-![](Entregables%20Definitov.png)
+## ¿Qué hace?
 
-### Tecnologías Utilizadas
+## ¿Qué tecnologías utilizaste?
 
-Lista:
+## ¿Cómo lo construiste?
 
-* AWS  
-* **Negritas**
-  - Hola
-  
-  
-## Soy un mensajito
+## Arquitectura del Proyecto
 
+## ¿De qué te sientes orgulloso?
